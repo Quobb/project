@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    animation-name: example;
+    animation-duration: 4s ;
+    animation-fill-mode: forwards;
+    animation-play-state: running;
+
+    
+}
+
+    
+@keyframes example {
+    0%   {background-color: red;}
+    25%  {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+}
+h1{
+    margin-top: 50%;
+    margin-left: 50%;
+}
+h1:hover
+{
+    transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    -webkit-transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    -moz-transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    -ms-transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    -o-transition: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    translate: 3px;
+}
