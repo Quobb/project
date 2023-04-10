@@ -1,0 +1,3 @@
+Executed SQL Statement : select `SPECIFIC_NAME` from `INFORMATION_SCHEMA`.`ROUTINES` where BINARY `ROUTINE_SCHEMA` = 'PHARMARCY_1' and ROUTINE_TYPE = 'PROCEDURE' 
+Error Number : 1558 
+Error Message: Column count of mysql.proc is wrong. Expected 21, found 20. Created with MariaDB 100108, now running 100424. Please use mysql_upgrade to fix this error 

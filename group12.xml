@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook
+  xmlns:x="urn:schemas-microsoft-com:office:excel"
+  xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+  xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+
+<Styles>
+ <Style ss:ID="Default" ss:Name="Normal">
+  <Alignment ss:Vertical="Bottom"/>
+  <Borders/>
+  <Font/>
+  <Interior/>
+  <NumberFormat/>
+  <Protection/>
+ </Style>
+ <Style ss:ID="s27">
+  <Font x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+ </Style>
+ <Style ss:ID="s21">
+  <NumberFormat ss:Format="yyyy\-mm\-dd"/>
+ </Style>
+ <Style ss:ID="s22">
+  <NumberFormat ss:Format="yyyy\-mm\-dd\ hh:mm:ss"/>
+ </Style>
+ <Style ss:ID="s23">
+  <NumberFormat ss:Format="hh:mm:ss"/>
+ </Style>
+</Styles>
+
+ <Worksheet ss:Name="Sheet1">
+  <ss:Table>
+   <ss:Row>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_fname</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_lname</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_cnt</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_add</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">emply_DOB</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">brnch_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">compy_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">ms_id</Data></ss:Cell>
+    <ss:Cell  ss:StyleID="s27"><Data ss:Type="String">login_id</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">CHRISTABLE</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">ASANTE</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021123</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0243922920</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">B4/21</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">19/01/199</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12463485</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0010401263</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">413621</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">GLORIA</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">BOATENG</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021141</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0275831364</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">C7/241</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">06/03/1987</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12463485</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">4412613728</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">727261</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">FRANCIS</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">AMOAH</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021321</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0594136215</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">F4/713</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">31/05/1995</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12463485</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0103603603</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">215000</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">RICHMOND</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">YEBOAH</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021362</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0261316415</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">F3/216</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">04/08/1991</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12463485</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0321080600</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">386542</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">EMMAMUEL</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">KISSIEDU</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021413</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0554263141</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">JK/41316</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">06/12/1998</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12463485</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0321080600</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">070736</Data></ss:Cell>
+   </ss:Row>
+   <ss:Row>
+    <ss:Cell><Data ss:Type="String">SYVESTER</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">ANANE</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0021426</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0244631842</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">Z3/8412</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">12/11/1985</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String"></Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0351260038</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">0321080041</Data></ss:Cell>
+    <ss:Cell><Data ss:Type="String">202050</Data></ss:Cell>
+   </ss:Row>
+  </ss:Table>
+ </Worksheet>
+</Workbook>
