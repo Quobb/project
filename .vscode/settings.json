@@ -1,0 +1,34 @@
+{
+    "cSpell.words": [
+        "firstname",
+        "lastname"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "newconnect",
+            "database": "tutorial2",
+            "username": "malware",
+            "askForPassword": true
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "New Connection",
+            "database": "tutorial2",
+            "username": "root",
+            "password": ""
+        }
+    ]
+}

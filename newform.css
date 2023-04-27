@@ -1,0 +1,13 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body {
+    --bs-body-font-family: var(--bs-font-monospace);
+    --bs-body-line-height: 1.4;
+    --bs-body-bg: var(--bs-gray-100);
+  }
+body div{
+    margin-left: 200px;
+    
+}

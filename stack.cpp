@@ -18,7 +18,7 @@ int main(){
     mystack.pop();
 
     // Print the top element again
-    std::cout << "Top element: " << mystack.top() << std::endl;
+    std::cout << "Top element: " << mystack.top() << std::endl; 
 
     // Check if the stack is empty
     if (mystack.empty()) {
